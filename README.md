@@ -52,9 +52,8 @@ Jupyter Notebook (VS Code extension)
 
 📂 Project Structure
 EMPLOYEE-ATTRITION-PREDICTOR/
-│── notebook.ipynb                # Jupyter Notebook with step-by-step code
-│── WA_Fn-UseC_-HR-Employee-Attrition.csv  # HR dataset
-│── README.md                     # Project documentation
+- │── notebook.ipynb                # Jupyter Notebook with step-by-step code
+- │── WA_Fn-UseC_-HR-Employee-Attrition.csv  # HR dataset
 
 🚀 How to Run the Project
 
@@ -89,7 +88,7 @@ Add real-time prediction support with live employee data.
 
 📌 What You Learn
 
-✅ Advanced classification techniques
-✅ Feature engineering for HR analytics
-✅ Model evaluation & visualization
-✅ Insights into HR attrition patterns
+- ✅ Advanced classification techniques
+- ✅ Feature engineering for HR analytics
+- ✅ Model evaluation & visualization
+- ✅ Insights into HR attrition patterns
