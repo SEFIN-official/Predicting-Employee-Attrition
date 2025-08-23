@@ -19,10 +19,8 @@ To develop a model that predicts the likelihood of employee attrition in a compa
 📖 Description
 
  - Dataset used: IBM HR Analytics Employee Attrition Dataset
+- Kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ---
-   📥 Download
-
-- Kaggle: IBM HR Analytics Attrition Dataset
 
 Perform EDA (Exploratory Data Analysis) to understand employee trends.
 
