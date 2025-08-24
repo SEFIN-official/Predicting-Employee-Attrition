@@ -94,3 +94,11 @@ Add real-time prediction support with live employee data.
 - ✅ Feature engineering for HR analytics
 - ✅ Model evaluation & visualization
 - ✅ Insights into HR attrition patterns
+---
+OUTPUT SCREENSHOT:
+<img width="1860" height="990" alt="image" src="https://github.com/user-attachments/assets/7a63d69b-bb6b-4ad6-b4e6-a8258ee423df" />
+
+<img width="539" height="455" alt="image" src="https://github.com/user-attachments/assets/efc9388e-77e6-4c42-96bf-9a14a0086fae" />
+<img width="998" height="528" alt="image" src="https://github.com/user-attachments/assets/4386fda5-94da-4726-b75f-5ed9166a2b0e" />
+
+
